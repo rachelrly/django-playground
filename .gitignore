@@ -1,2 +1,5 @@
 .env
+/djangoplay/.env
 .DS_Store
+
+db.sqlite3
